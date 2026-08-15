@@ -32,5 +32,6 @@
 ---
 
 ![Okabe Rintarou](gif_steins_gate.gif)
+
 *"El Psy Kongroo."*  
 — Steins;Gate
