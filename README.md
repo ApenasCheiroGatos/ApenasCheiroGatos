@@ -31,5 +31,6 @@
 
 ---
 
+![Steins;Gate](https://i.pinimg.com/originals/xx/yy/zz.gif)
 *"El Psy Kongroo."*  
 — Steins;Gate
