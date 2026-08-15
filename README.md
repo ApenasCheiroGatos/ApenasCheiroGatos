@@ -20,7 +20,7 @@
 ## 📂 Projetos em destaque
 
 ❤️ [**Sistema de Folha de Ponto**](https://github.com/leo150250/paperDotus) — Projeto desenvolvido durante estágio com C# e Windows Forms  
-❤️ [**Site (em desenvolvimento)**](https://github.com/ApenasCheiroGatos/OperacaoDamaVagabundo) — Projeto de Programação Web no IFRO
+❤️ [**Site (em desenvolvimento)**](https://github.com/ApenasCheiroGatos/OperacaoDamaVagabundo) — Projeto de Programação Web no IFRO  
 ❤️ [**Meu Repositório**](https://github.com/ApenasCheiroGatos/ApenasCheiroGatos) — Meus códigos iniciais, de quando eu estava aprendendo a programar
 
 ---
