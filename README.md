@@ -31,6 +31,6 @@
 
 ---
 
-![Okabe Rintarou](https://media1.tenor.com/m/akbnkO2b22AAAAAC/steinsgate-okabe-rintarou.gif)
+![Okabe Rintarou](gif_steins_gate.gif)
 *"El Psy Kongroo."*  
 — Steins;Gate
